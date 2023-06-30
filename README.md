@@ -1,0 +1,2 @@
+# ChineseSimilarChar
+从毕设中提取出来的汉字形态学形近字生成方法
